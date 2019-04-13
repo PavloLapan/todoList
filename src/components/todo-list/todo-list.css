@@ -1,0 +1,6 @@
+.todo-list{
+    padding: .25rem .75rem;
+}
+.line-through{
+    text-decoration: line-through;
+}
